@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client';
 import { Index } from './Index';
 import { Tetrice } from './Tetrice';
 import { ErrorPage } from './ErrorPage';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from 'react-router-dom';
 
-const router = createBrowserRouter([{
+const router = createHashRouter([{
   // my current task screen
   path: '', element: <Index />,
   errorElement: <ErrorPage />, 
