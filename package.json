@@ -3,10 +3,10 @@
   "private": false,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "http://caitscheverst.github.io/",
+  "homepage": "http://caitscheverst.github.io/caitscheverst.github.io/",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
