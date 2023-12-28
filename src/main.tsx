@@ -7,7 +7,7 @@ import { RouterProvider, createHashRouter } from 'react-router-dom';
 
 const router = createHashRouter([{
   // my current task screen
-  path: '', element: <Index />,
+  path: '/', element: <Index />,
   errorElement: <ErrorPage />, 
   children: [
     { path: 'tetrice', element: <Tetrice /> }
