@@ -12,4 +12,4 @@ _(never not working to reclaim the word 'holistic')_
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-[Full Portfolio](https://www.caitscheverst.com/).
+[Full Portfolio](http://www.caitscheverst.com/)
